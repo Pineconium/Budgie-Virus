@@ -7,6 +7,8 @@ It only works in Windows 3.1 as thats the only WIN version I tested.
 
 
 ## Stuff you need.
+-- For Windows 3.1 --
+1. Make use you have the "VBRUN100.dll" file with the OS. (DLL NOT INCLUDED!)
 --For VM's--
 1. A virtual machine running Windows 3.1 (or similar 16bit versions) -- *VirtualBox is recommended*
 2. The Budgie.img file installed.
