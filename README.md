@@ -1,7 +1,7 @@
 # The *Budgie* Virus
 A little WIN3.1 virus I made with VBScript.
 
-The Budgie Virus is meant for Windows 16-bit operating systems (ore-9x)
+The Budgie Virus is meant for Windows 16-bit operating systems (pre-9x)
 
 It only works in Windows 3.1 as that's the only WIN version I tested.
 
