@@ -1,0 +1,2 @@
+cat BUDGIE.EXE VBRUN100.DLL > Budgie.img
+cat BUDGIE.EXE VBRUN100.DLL > Budgie.flp
